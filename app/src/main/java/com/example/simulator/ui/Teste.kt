@@ -1,4 +1,4 @@
-package com.example.simulator
+package com.example.simulator.ui
 
 class teste {
     private fun getFullName(name:String, lastName:String):String{
